@@ -1,2 +1,6 @@
 prueba
+<<<<<<< HEAD
 adicionamos texto a este archivo
+=======
+Cambio
+>>>>>>> 08fa462e0063368a2645e32a364292878dd19b5d
